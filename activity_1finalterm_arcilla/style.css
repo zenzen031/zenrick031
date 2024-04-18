@@ -1,0 +1,49 @@
+body{
+background-image: url('pic1.png.jpg');
+width: 100%;
+}
+#container{
+padding: 40px;
+width: 70%;
+margin: auto;
+height: 70%;
+background-color: white;
+display: flex;
+margin-top: 30px;
+
+}
+#pic{
+width: 23.3%;
+background-color: none;
+}
+#programs{
+width: 23.3%;
+background-color: white;
+
+}
+
+#about{
+width: 23.3%;
+background-color: white;
+padding-left: 30px;
+
+}
+#orange{
+color: red;
+}
+#blue{
+color:rgba(8, 155, 299, 0.79);
+}
+#yellow{
+color: orange;
+}
+#gray{
+color: gray;
+}
+
+
+
+
+
+
+
